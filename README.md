@@ -1,2 +1,1 @@
 # webdarkmagazine.github.io
-play
